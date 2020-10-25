@@ -27,7 +27,7 @@ The present value of any Cash Flow generating asset is the value of all future c
 
 In its simplest form, where we expect the cash flow to grow at the same rate for ever, this is given by the below perpetuity formula.
 
-![image%201.JPG](attachment:image%201.JPG)
+<img src="image 1.JPG" width="200" />
 
 When trying to value a company based on its future cash flows, we can either look at it through the lenses of all capital providers (equity and debt providers) and we would use the FCFF (Free Cash Flow to the Firm) as the measure of cash flow (CF), or we could look at it purely as an Equity investor and we would use the FCFE (Free Cash Flow to Equity) as our measure of CF.
 
@@ -37,7 +37,7 @@ If we want to estimate the value of Equity directly, we would therefore use the 
 
 As the Market Capitalization (MC) (numerator in the PE ratio), is the aggregate market estimation of the value of Equity, we can rewrite the above formula as follows:
 
-![image%202.JPG](attachment:image%202.JPG)
+<img src="image 2.JPG" width="800" />
 
 This formula gives us some understanding of what we would expect the fundamental drivers of the PE ratio to be.
 The fundamental drivers of the P/E ratio are
